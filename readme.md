@@ -2,17 +2,18 @@
 
 ## 📌 Problema
 
-Descreva aqui o problema escolhido.
+Hoje, milhões de brasileiros enfrentam caos no atendimento médico:
 
-- Quem é afetado?
-- Qual a dificuldade?
-- Por que isso é relevante?
+-Ficam horas na fila e muitas vezes não conseguem ser atendidos.
+-Não sabem se o posto está aberto, fechado ou lotado.
+-Não têm acesso fácil a remédios, vacinas ou especialistas.
 
 ---
 
 ## 💡 Solução Proposta
 
-Explique sua ideia de forma clara.
+O PulsePoint é um aplicativo inovador que reorganiza o atendimento na saúde pública, conectando pacientes, postos de saúde e serviços digitais. Ele oferece soluções que vão desde agendamento online até filas inteligentes e mapas em tempo real, permitindo que os usuários resolvam suas necessidades de saúde de forma rápida, eficiente e organizada.
+
 
 ---
 
