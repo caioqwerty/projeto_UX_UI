@@ -6,19 +6,19 @@
         <mxCell id="1" parent="0" />
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-2" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="320" as="targetPoint" />
+            <mxPoint x="220" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="começo&amp;nbsp;" vertex="1">
-          <mxGeometry height="80" width="80" x="220" y="280" as="geometry" />
+          <mxGeometry height="80" width="80" as="geometry" />
         </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-7" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hR9GnX4cK3Uy0PAQEFYm-6" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="480" y="470" />
-              <mxPoint x="480" y="470" />
+              <mxPoint x="260" y="190" />
+              <mxPoint x="260" y="190" />
             </Array>
-            <mxPoint x="460" y="390" as="sourcePoint" />
+            <mxPoint x="240" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-8" connectable="0" parent="hR9GnX4cK3Uy0PAQEFYm-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
@@ -28,7 +28,7 @@
         </mxCell>
         <mxCell id="pgRXmKCUBGCpmuIXol1E-1" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="320" as="targetPoint" />
+            <mxPoint x="410" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pgRXmKCUBGCpmuIXol1E-2" connectable="0" parent="pgRXmKCUBGCpmuIXol1E-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não&amp;nbsp;" vertex="1">
@@ -37,10 +37,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via google" vertex="1">
-          <mxGeometry height="80" width="80" x="440" y="280" as="geometry" />
+          <mxGeometry height="80" width="80" x="220" as="geometry" />
         </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-6" parent="1" style="whiteSpace=wrap;html=1;" value="google altentificaçao" vertex="1">
-          <mxGeometry height="60" width="120" x="420" y="555" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-2" edge="1" parent="1" source="MZR7V71o4J7xt0iwKmca-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MZR7V71o4J7xt0iwKmca-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-4" connectable="0" parent="MZR7V71o4J7xt0iwKmca-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0902" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via&lt;div&gt;gov.br&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gov.br altentificação&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
