@@ -31,6 +31,11 @@
             <mxPoint x="630" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pgRXmKCUBGCpmuIXol1E-2" connectable="0" parent="pgRXmKCUBGCpmuIXol1E-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.123" y="6" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via google" vertex="1">
           <mxGeometry height="80" width="80" x="440" y="280" as="geometry" />
         </mxCell>
