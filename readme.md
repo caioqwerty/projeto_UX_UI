@@ -35,7 +35,7 @@ Localização inicial: cidades com alta demanda e filas longas, centros urbanos 
 
 Descrição do fluxo.
 
-![Fluxo](./imagens/fluxo.png)
+![Fluxo](fluxo)
 
 ---
 
