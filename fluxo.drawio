@@ -26,6 +26,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pgRXmKCUBGCpmuIXol1E-1" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via google" vertex="1">
           <mxGeometry height="80" width="80" x="440" y="280" as="geometry" />
         </mxCell>
