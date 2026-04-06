@@ -39,6 +39,16 @@
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;rotation=0;" value="login via google" vertex="1">
           <mxGeometry height="80" width="80" x="220" as="geometry" />
         </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-2" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="355" />
+              <mxPoint x="560" y="355" />
+              <mxPoint x="560" y="250" />
+            </Array>
+            <mxPoint x="770" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hR9GnX4cK3Uy0PAQEFYm-6" parent="1" style="whiteSpace=wrap;html=1;" value="google altentificaçao" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="275" as="geometry" />
         </mxCell>
@@ -55,8 +65,21 @@
         <mxCell id="MZR7V71o4J7xt0iwKmca-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via&lt;div&gt;gov.br&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="80" x="410" as="geometry" />
         </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-4" edge="1" parent="1" source="MZR7V71o4J7xt0iwKmca-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="355" />
+              <mxPoint x="560" y="355" />
+              <mxPoint x="560" y="250" />
+            </Array>
+            <mxPoint x="770" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MZR7V71o4J7xt0iwKmca-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gov.br altentificação&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="390" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="menu inicial" vertex="1">
+          <mxGeometry height="80" width="80" x="710" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
