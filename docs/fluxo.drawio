@@ -79,27 +79,31 @@
             <mxPoint x="1000" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1GKhWjig_6Syx1oDGu8C-8" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-8" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-9">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="350" />
+            </Array>
             <mxPoint x="1000" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1GKhWjig_6Syx1oDGu8C-10" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="menu inicial" vertex="1">
           <mxGeometry height="80" width="80" x="570" y="310" as="geometry" />
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="histórico de vacinasao" vertex="1">
-          <mxGeometry height="60" width="120" x="940" y="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="730" y="160" as="geometry" />
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="agendamentos" vertex="1">
-          <mxGeometry height="60" width="120" x="940" y="490" as="geometry" />
+          <mxGeometry height="60" width="120" x="730" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-12" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="1GKhWjig_6Syx1oDGu8C-11" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="1160" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="postos de saúde próximos" vertex="1">
-          <mxGeometry height="60" width="130" x="1160" y="320" as="geometry" />
+          <mxGeometry height="60" width="130" x="860" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
