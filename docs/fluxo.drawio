@@ -90,6 +90,9 @@
         <mxCell id="1GKhWjig_6Syx1oDGu8C-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="menu inicial" vertex="1">
           <mxGeometry height="80" width="80" x="570" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-14" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="histórico de vacinasao" vertex="1">
           <mxGeometry height="60" width="120" x="730" y="160" as="geometry" />
         </mxCell>
@@ -104,6 +107,23 @@
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="postos de saúde próximos" vertex="1">
           <mxGeometry height="60" width="130" x="860" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-16" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="lista de vacinas&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="970" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-17" edge="1" parent="1" source="1GKhWjig_6Syx1oDGu8C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1GKhWjig_6Syx1oDGu8C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-18" connectable="0" parent="1GKhWjig_6Syx1oDGu8C-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2684" y="-6" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GKhWjig_6Syx1oDGu8C-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="voltar" vertex="1">
+          <mxGeometry height="80" width="80" x="1210" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
