@@ -35,8 +35,8 @@ Localização inicial: cidades com alta demanda e filas longas, centros urbanos 
 
 Descrição do fluxo.
 
-![Fluxo](fluxo)
-
+[![Fluxo](fluxo)
+](https://www.figma.com/design/DPGd1YFp2i6Fxociih2Qo5/pulsepoint?node-id=0-1&m=dev&t=kPohmuHSAZQf1s6C-1)
 ---
 
 ## 🧩 Wireframes
