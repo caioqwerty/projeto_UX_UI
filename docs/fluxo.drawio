@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="menu inicial" vertex="1">
-          <mxGeometry height="80" width="80" x="720" y="310" as="geometry" />
+          <mxGeometry height="80" width="80" x="570" y="310" as="geometry" />
         </mxCell>
         <mxCell id="1GKhWjig_6Syx1oDGu8C-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="histórico de vacinasao" vertex="1">
           <mxGeometry height="60" width="120" x="940" y="80" as="geometry" />
