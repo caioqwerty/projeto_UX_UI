@@ -34,9 +34,70 @@ Localização inicial: cidades com alta demanda e filas longas, centros urbanos 
 ## 🔄 Fluxo do Usuário
 
 Descrição do fluxo.
-
-[![Fluxo](fluxo)
-](https://www.figma.com/design/DPGd1YFp2i6Fxociih2Qo5/pulsepoint?node-id=0-1&m=dev&t=kPohmuHSAZQf1s6C-1)
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="0ic-XCB3FAjodD1SOuIa">
+    <mxGraphModel dx="1226" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-2" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="começo&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-7" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hR9GnX4cK3Uy0PAQEFYm-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="190" />
+              <mxPoint x="260" y="190" />
+            </Array>
+            <mxPoint x="240" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-8" connectable="0" parent="hR9GnX4cK3Uy0PAQEFYm-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.2084" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgRXmKCUBGCpmuIXol1E-1" edge="1" parent="1" source="hR9GnX4cK3Uy0PAQEFYm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgRXmKCUBGCpmuIXol1E-2" connectable="0" parent="pgRXmKCUBGCpmuIXol1E-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="não&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.123" y="6" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via google" vertex="1">
+          <mxGeometry height="80" width="80" x="220" as="geometry" />
+        </mxCell>
+        <mxCell id="hR9GnX4cK3Uy0PAQEFYm-6" parent="1" style="whiteSpace=wrap;html=1;" value="google altentificaçao" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-2" edge="1" parent="1" source="MZR7V71o4J7xt0iwKmca-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MZR7V71o4J7xt0iwKmca-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-4" connectable="0" parent="MZR7V71o4J7xt0iwKmca-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0902" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="login via&lt;div&gt;gov.br&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MZR7V71o4J7xt0iwKmca-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gov.br altentificação&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="275" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
 ---
 
 ## 🧩 Wireframes
