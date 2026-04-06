@@ -51,8 +51,7 @@ Estrutura inicial das telas.
 
 Interface final do sistema.
 
-![Tela](./imagens/tela1.png)
-
+https://www.figma.com/design/DPGd1YFp2i6Fxociih2Qo5/pulsepoint?node-id=0-1&m=dev&t=kPohmuHSAZQf1s6C-1
 ---
 
 ## 🔗 Acesse o Protótipo
